@@ -1,0 +1,17 @@
+numpy~=1.26.3
+pandas~=2.1.4
+datasets~=2.16.1
+transformers~=4.45.1
+pyyaml~=6.0.1
+openai~=1.40.3
+anthropic~=0.32.0
+pulp~=2.9.0
+redis~=5.0.1
+torch~=2.4.0
+accelerate~=0.33.0
+vllm~=0.6.2
+vllm-flash-attn~=2.6.2
+colorlog~=6.8.2
+tqdm
+requests~=2.32.3
+Flask~=1.0.2
