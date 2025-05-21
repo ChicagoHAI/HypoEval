@@ -1,6 +1,10 @@
 # HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation (Evaluators)
 This repository provides off-the-shelf 0-shot LLM-based evaluators for summarization and story generation, from the paper [HypoEval: Hypothesis-Guided Evaluation of Natural Language Generation](https://arxiv.org/abs/2504.07174). For more details on HypoEval implementation, reproducing results, and adding new evaluated aspects, please refer to [**ChicagoHAI/HypoEval-Gen**](https://github.com/ChicagoHAI/HypoEval-Gen).
 
+## Updates
+
+May'25: HypoEval is now incorporated in [**quotient-ai/judges**](https://github.com/quotient-ai/judges)!
+
 ## Usage
 
 To use the evaluator for summaries on aspect in `["coherence", "consistency", "informativeness", "fluency", "relevance"]`:
